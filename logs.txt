@@ -19,11 +19,11 @@ LogCsvProfiler: Display: Metadata set : platform="Windows"
 LogCsvProfiler: Display: Metadata set : config="Shipping"
 LogCsvProfiler: Display: Metadata set : buildversion="++Fortnite+Release-19.01-CL-18415863"
 LogCsvProfiler: Display: Metadata set : engineversion="5.0.1-18415863+++Fortnite+Release-19.01"
-LogCsvProfiler: Display: Metadata set : commandline=""-AUTH_LOGIN=unused -AUTH_PASSWORD=dd3e1c1aceb44323895cd3bf605e00e4 -AUTH_TYPE=exchangecode -epicapp=Fortnite -epicenv=Prod -EpicPortal -noeac -fromfl=be -caldera=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiOGZlYzE1YzQwYzk3NDNmYzg2Mzc2ZjBlMzAzZjkzZWUiLCJnZW5lcmF0ZWQiOjE2Mzk3NDc0MDIsImNhbGRlcmFHdWlkIjoiZmZmNzViNTQtNjAxOS00M2U2LWE0MDktZGZkOTBkMzNhMGVhIiwiYWNQcm92aWRlciI6IkJhdHRsRXllIiwibm90ZXMiOiIiLCJmYWxsYmFjayI6ZmFsc2V9.Sqowvk2-yejVr7xMVgZyKlJvepZveAgNGeUnfoAjsImJ7llyQSzBgVhgS5sCViYVljtGK51NJcinpwtJTFbCdw""
-LogCsvProfiler: Display: Metadata set : os="Windows 10 (Release 2009) "
-LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 3500X 6-Core Processor"
+LogCsvProfiler: Display: Metadata set : commandline=""-AUTH_LOGIN=unused -AUTH_PASSWORD= -AUTH_TYPE=exchangecode -epicapp=Fortnite -epicenv=Prod -EpicPortal -noeac -fromfl=be -caldera=""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (Release 2021) "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 5800X 8-Core Processor"
 LogCsvProfiler: Display: Metadata set : pgoenabled="1"
-LogCsvProfiler: Display: Metadata set : loginid="b04342324626118147e6d28d1704d89c"
+LogCsvProfiler: Display: Metadata set : loginid=""
 OodleDataCompression: Display: OodleScratchMemorySize=473088 x 2
 LogStreaming: Display: AsyncLoading2 - Created: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
 LogStreaming: Display: AsyncLoading2 - Initialized
