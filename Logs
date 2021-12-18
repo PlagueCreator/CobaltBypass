@@ -35,7 +35,7 @@ LogHAL: Display: Platform has ~ 16 GB [17126920192 / 17179869184 / 16], which ma
 LogDeviceProfileManager: Warning: Creating unregistered Device Profile CVar: [[r.DistanceFields.ParallelAtlasUpdate:1]]
 LogFortSignificance: Display: Set AI budget to '8,16'
 LogFortSignificance: Display: Set AI Pawn movement budget to '4,4,10,82'
-LogFortSignificance: Display: Set Athena Player Pawn budget to '500'
+LogFortSignificance: Display: Set Athena Player Pawn budget to '600'
 LogFortSignificance: Display: Set Athena Player Pawn movement budget to '4,4,10,82'
 LogFortSignificance: Display: Set Athena SKVehicle budget to '3, 3'
 LogFortSignificance: Display: Set fort physics object budget to '7,8'
