@@ -1,4 +1,11 @@
- ___            _                 _      _     
+ using System;
+
+class Program {
+  public static void Main (string[] args) {
+    Console.WriteLine ("Hi");
+  }
+}
+__            _                 _      _     
   / __|    ___   | |__    __ _     | |    | |_   
  | (__    / _ \  | '_ \  / _` |    | |    |  _|  
   \___|   \___/  |_.__/  \__,_|   _|_|_   _\__|  
